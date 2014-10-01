@@ -14,7 +14,7 @@ Para ello, tendrá la colaboración de tres `Programadores`.
 **No podrá realizar ninguna modificación directa del software**.
 
 ## Programador
-Su función será realizar una query con sus tickets e intentar seguirlos *fielmente* y con la *rapidez* necesaria...
+Su función será realizar sus tickets e intentar seguirlos *fielmente* y con la *rapidez* necesaria...
 
 y sin mala intención **;-)**.
 
