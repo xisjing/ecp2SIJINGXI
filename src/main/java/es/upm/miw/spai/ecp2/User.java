@@ -39,7 +39,6 @@ public class User {
     }
 
     public String nameAsia() {
-
-        return null;
+        return this.getFamilyName() + " " + this.getName();
     }
 }
