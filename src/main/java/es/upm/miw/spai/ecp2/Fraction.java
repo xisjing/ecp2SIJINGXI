@@ -64,5 +64,10 @@ public class Fraction {
 		// TODO Auto-generated method stub
 		
 	}
+
+    public void setDenominador(int i) {
+        // TODO Auto-generated method stub
+        
+    }
     
 }

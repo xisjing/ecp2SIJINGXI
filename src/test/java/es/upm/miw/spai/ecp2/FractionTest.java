@@ -37,5 +37,11 @@ public class FractionTest {
     	assertEquals(4, this.fraccion.getNumerator());
     }
     
+    @Test
+    public void testSetDenominador(){
+        this.fraccion.setDenominador(4);
+        assertEquals(4, this.fraccion.getDenominator());
+    }
+    
    
 }
