@@ -40,4 +40,12 @@ public class DecimalCollection {
 		return 0;
 	}
 
+	public double mul() {
+		double resultado = collection.get(0);
+        for(int i=1;i<collection.size();i++){
+            resultado = resultado*collection.get(i);
+        }
+        return resultado;
+	}
+
 }
