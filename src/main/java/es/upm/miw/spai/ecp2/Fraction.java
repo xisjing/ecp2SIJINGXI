@@ -66,8 +66,7 @@ public class Fraction {
 	}
 
     public void setDenominador(int i) {
-        // TODO Auto-generated method stub
-        
+        this.denominator = i;
     }
 
     public boolean isEqual(Fraction fraction) {

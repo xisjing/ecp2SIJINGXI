@@ -43,12 +43,11 @@ public class Point {
     }
 
     public void setX(int i) {
-        // TODO Auto-generated method stub
-        return;
+        this.x = i;
     }
 
     public void setY(int i) {
-        // TODO Auto-generated method stub
+        this.y = i;
         
     }
     
