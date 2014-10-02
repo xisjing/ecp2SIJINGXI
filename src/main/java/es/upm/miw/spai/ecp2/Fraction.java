@@ -70,8 +70,7 @@ public class Fraction {
     }
 
     public boolean isEqual(Fraction fraction) {
-        // TODO Auto-generated method stub
-        return false;
+        return (this.numerator==fraction.numerator)&&(this.denominator==fraction.denominator);
     }
     
 }
