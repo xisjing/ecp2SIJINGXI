@@ -61,7 +61,7 @@ public class Fraction {
     }
 
 	public void setNumerador(int i) {
-		// TODO Auto-generated method stub
+		this.numerator = i;
 		
 	}
 
