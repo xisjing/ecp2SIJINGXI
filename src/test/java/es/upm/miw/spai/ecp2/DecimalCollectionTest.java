@@ -44,5 +44,10 @@ public class DecimalCollectionTest {
     public void testHigher() {
         assertEquals(2.1, this.coleccion.higher(), 10e-3);
     }
+    
+    @Test
+    public void testSub(){
+    	assertEquals(0.0, this.coleccion.sub(), 10e-3);
+    }
 
 }

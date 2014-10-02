@@ -35,4 +35,9 @@ public class DecimalCollection {
         return higher;
     }
 
+	public double sub() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
 }

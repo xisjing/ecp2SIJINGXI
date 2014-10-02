@@ -59,5 +59,10 @@ public class Fraction {
     public double decimal() {
         return (double) numerator / denominator;
     }
+
+	public void setNumerador(int i) {
+		// TODO Auto-generated method stub
+		
+	}
     
 }

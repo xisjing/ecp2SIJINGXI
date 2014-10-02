@@ -31,5 +31,11 @@ public class FractionTest {
         assertEquals(0.2, this.fraccion.decimal(), 10e-5);
     }
     
+    @Test
+    public void testSetNumerador(){
+    	this.fraccion.setNumerador(4);
+    	assertEquals(4, this.fraccion.getNumerator());
+    }
+    
    
 }
