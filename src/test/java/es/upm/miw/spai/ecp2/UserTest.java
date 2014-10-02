@@ -30,5 +30,11 @@ public class UserTest {
     public void testInitials() {
         assertEquals("S.", this.usuario.initials());
     }
+    
+    @Test
+    public void testNameAsia(){
+        assertEquals("XI SIJING", this.usuario.nameAsia());
+    }
+
 
 }
