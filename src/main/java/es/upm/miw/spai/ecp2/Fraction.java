@@ -69,5 +69,10 @@ public class Fraction {
         // TODO Auto-generated method stub
         
     }
+
+    public boolean isEqual(Fraction fraction) {
+        // TODO Auto-generated method stub
+        return false;
+    }
     
 }

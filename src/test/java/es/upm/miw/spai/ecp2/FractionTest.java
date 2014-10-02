@@ -43,5 +43,11 @@ public class FractionTest {
         assertEquals(4, this.fraccion.getDenominator());
     }
     
+    @Test
+    public void testIsEqual(){
+        Fraction igual = new Fraction(1, 5);
+        assertEquals(true, this.fraccion.isEqual(igual));
+    }
+    
    
 }
