@@ -35,11 +35,6 @@ public class DecimalCollection {
         return higher;
     }
 
-	public double sub() {
-		// TODO Auto-generated method stub
-		return 0;
-	}
-
 	public double mul() {
 		double resultado = collection.get(0);
         for(int i=1;i<collection.size();i++){
