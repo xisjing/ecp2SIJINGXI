@@ -46,11 +46,6 @@ public class DecimalCollectionTest {
     }
     
     @Test
-    public void testSub(){
-    	assertEquals(0.0, this.coleccion.sub(), 10e-3);
-    }
-    
-    @Test
     public void testMul(){
     	assertEquals(0.0, this.coleccion.mul(), 10e-3);
     }
